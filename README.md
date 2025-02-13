@@ -1,2 +1,3 @@
-# intro-to-cupy
-This repository provides a detailed guide to mastering CuPy, a powerful library designed to accelerate numerical computations using NVIDIA GPUs.
+# Introduction to CuPy
+
+https://intro-to-cupy.readthedocs.io/en/latest/index.html
