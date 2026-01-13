@@ -30,19 +30,27 @@ Contents
    * - CUDA Stream
      - 15 Minutes
   
-  
-
-
 
 .. toctree::
+    :maxdepth: 1
+    :caption: Setup and Prerequisites
 
-   prerequisite
-   outcomes
-   modules
-   packages
-   tutorial
-   references
+    prerequisite.rst
+    outcomes.rst  
+    modules.rst
+    packages.rst
 
+.. toctree::
+    :maxdepth: 4
+    :caption: Tutorial
+    :numbered:
+    
+    tutorial/gpu
+    tutorial/cupy
+    tutorial/kernel.rst
+    tutorial/events.rst
+    tutorial/streams.rst
+    references.rst
 
 
 
