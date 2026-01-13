@@ -46,7 +46,7 @@ html_theme = 'sphinx_book_theme'
 # sphinx-book-theme options
 html_static_path = ["_static"]
 html_theme_options = {
-    "repository_url": "NCI900-Training-Organisation/intro-to-cupy.git",
+    "repository_url": "https://github.com/NCI900-Training-Organisation/intro-to-cupy",
     "use_repository_button": True,
     "logo": {
       "text": "Introduction to CuPy",
